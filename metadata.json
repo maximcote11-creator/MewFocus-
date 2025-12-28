@@ -1,0 +1,7 @@
+{
+  "name": "MewFocus - ADHD Smart Assistant",
+  "description": "A high-productivity task manager designed for ADHD minds, featuring AI-powered task breakdown, voice commands, and gentle gamification.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
